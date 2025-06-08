@@ -3,6 +3,8 @@ AI-POWERED IMAGE TO RECIPE GENERATOR -
 • Explored GenAI, NLP, CV, prompt engineering, deep learning
 • Integrated computer vision models to accurately identify ingredients and estimate portion sizes from food images, enhancing recipe precision.
 
+![image](https://github.com/user-attachments/assets/137fe65c-6ba6-4991-ae82-d67a0ba26044)
+
 Are you ever in the situation where you have a mouthwatering picture of a delicious dish but no idea how to recreate it? Look no further! Our "Recipe Generation from Food Images" project harnesses the power of deep learning to provide you with a solution.
 
 Overview:
@@ -33,7 +35,7 @@ Ingredients (ingr_vocab.pkl) : Download ingr_vocab.pkl
 Instruction (instr_vocab.pkl) : Download instr_vocab.pkl
 
 To run the Code :
-Open Terminal (cmd)
-Install all the required libraries using "pip install -r requirements.txt"
-run "python run.py"
-You will be getting a localhost link and open that link in your browser
+1. Open Terminal (cmd)
+2. Install all the required libraries using "pip install -r requirements.txt"
+3. run "python run.py"
+4. You will be getting a localhost link and open that link in your browser
